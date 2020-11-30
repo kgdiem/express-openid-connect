@@ -34,7 +34,7 @@
     "http-errors": "^1.7.3",
     "jose": "^2.0.0",
     "on-headers": "^1.0.2",
-    "openid-client": "git+https://github.com/kgdiem/node-openid-client.git",
+    "patched-openid-client": "4.2.1",
     "p-memoize": "^4.0.0",
     "url-join": "^4.0.1"
   },
