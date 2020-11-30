@@ -1,6 +1,6 @@
 {
   "name": "patched-express-openid-connect",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Express middleware to protect web applications using OpenID Connect.",
   "homepage": "https://github.com/kgdiem/express-openid-connect",
   "license": "MIT",
